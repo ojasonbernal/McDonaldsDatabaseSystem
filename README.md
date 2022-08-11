@@ -51,22 +51,22 @@ Interactions between components
 
 Customer Portal User Interface:
 
-<img src="img/csignin.PNG" width="30%" height="auto">
+<img src="img/csignin.PNG" width="40%" height="auto">
 
-<img src="img/chomepage.PNG" width="30%" height="auto">
+<img src="img/chomepage.PNG" width="40%" height="auto">
 
-<img src="img/ccart.PNG" width="30%" height="auto">
+<img src="img/ccart.PNG" width="40%" height="auto">
 
-<img src="img/cmenu.PNG" width="30%" height="auto">
+<img src="img/cmenu.PNG" width="40%" height="auto">
 
 
 Manager Portal User Interface:
 
-<img src="img/mmain.PNG" width="30%" height="auto">
+<img src="img/mmain.PNG" width="40%" height="auto">
 
-<img src="img/mtrends.PNG" width="30%" height="auto">
+<img src="img/mtrends.PNG" width="40%" height="auto">
 
-<img src="img/mcustomerinfo.PNG" width="30%" height="auto">
+<img src="img/mcustomerinfo.PNG" width="40%" height="auto">
 
 ## Sources
 * Java: [https://www.java.com/en/](https://www.java.com/en/)
